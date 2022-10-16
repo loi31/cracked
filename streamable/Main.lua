@@ -1,3 +1,10 @@
+--[[ Example:
+
+getgenv().StreamableFov = 60
+loadstring(game:HttpGet("https://raw.githubusercontent.com/loi31/cracked/main/streamable/Main.lua"))()
+]]
+
+
 local hotkey = "t"
 local mouse = game.Players.LocalPlayer:GetMouse()
 
